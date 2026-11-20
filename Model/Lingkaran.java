@@ -14,5 +14,4 @@ public class Lingkaran {
         this.jarijari = jarijari;
     }
 
-    
 }
