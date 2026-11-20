@@ -10,7 +10,7 @@ public class Persegi extends SegiEmpat {
     public double getSisi() {
         return sisi;
     }
-    public double setSisi(double sisi) {
+    public void setSisi(double sisi) {
         this.sisi = sisi;
     }
     

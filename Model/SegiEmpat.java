@@ -8,11 +8,16 @@ public class SegiEmpat {
         this.panjang = panjang;
         this.lebar = lebar;
     }
-    public double getpanjang(do) {
+    public double getPanjang() {
         return panjang;
     }
-
-    public void setSegiEmpat() {
-        
+    public void setPanjang(double panjang) {
+        this.panjang = panjang;
+    }
+    public double getLebar() {
+        return lebar;
+    }
+    public void setLebar(double lebar) {
+        this.lebar = lebar;
     }
 }
