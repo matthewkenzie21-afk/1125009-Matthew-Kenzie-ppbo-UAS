@@ -1,7 +1,7 @@
 package Model;
 
 public interface KeyValueDetailable {
-   public getKeyValueDetails()[
-    
-   ]
+   public getKeyValueDetails() {
+
+   }
 }

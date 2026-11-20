@@ -1,7 +1,7 @@
 package Model;
 
 public class Kubus extends Balok {
-    super(double panjang, double lebar, double tinggi);
+    super(panjang, lebar, tinggi);
     
     private double sisi;
 
